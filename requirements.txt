@@ -1,0 +1,11 @@
+#requirements
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart
+python-dotenv
+llama-index
+faiss-cpu
+numpy
+pandas
+pypdf
+pydantic
